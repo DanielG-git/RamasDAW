@@ -1,3 +1,5 @@
 Hola
+Cambio desde rama1
+Otro cambio desde rama1
 Hola?
 Hola3
